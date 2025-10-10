@@ -76,7 +76,6 @@ User → GoDaddy Domain → Route 53 → ALB → Tomcat Instances → MySQL/Memc
 
 ![Project Output 1](out1.png)  
 
-> **Tip:** If you don’t want to commit images, you can use GitHub’s “Drag & Drop” upload in issues, copy the link, and use `?raw=true` at the end.
 
 ---
 
