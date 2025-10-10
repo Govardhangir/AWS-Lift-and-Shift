@@ -86,8 +86,9 @@ CloudWatch provides real-time monitoring
 📸 Project Output
 
 (You can insert your screenshots or video link here later — for example:)
-![Project Output](./output1.png)
-![Project Output](./output1.png)
+![Project Output](output1.png)
+![Project Output](output2 (2).png)
+
 
 
 🧠 Learning Outcomes
