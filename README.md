@@ -102,4 +102,4 @@ User → GoDaddy Domain → Route 53 → ALB → Tomcat Instances → MySQL/Memc
 **Mula Govardhan Reddy (Giri)**  
 📍 DevOps & Cloud Enthusiast  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
-🔗 [GitHub Profile](https://github.com/Govardhangir)
+
