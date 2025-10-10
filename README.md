@@ -1,12 +1,11 @@
 # 🚀 AWS Lift-and-Shift Project – Cloud Migration Architecture
-📘 Overview
+
 
 This project demonstrates the Lift-and-Shift migration strategy, where a traditional on-premise web application is migrated into the AWS Cloud without redesigning the core architecture.
 The setup includes a 3-tier architecture with Auto Scaling, Load Balancing, Secure Networking, and CI/CD integration using Maven and S3.
 
 🧩 Architecture Diagram
 
-(Add your architecture image here after uploading, for example:)
 ![AWS Lift and Shift Architecture](![AWS Architecture](diagram-export-10-7-2025-3_12_19-PM.png))
 
 🏗️ Project Components
@@ -87,7 +86,7 @@ CloudWatch provides real-time monitoring
 
 (You can insert your screenshots or video link here later — for example:)
 ![Project Output](./output.png)
-🎥 Video Explanation: LinkedIn Video Link
+
 
 🧠 Learning Outcomes
 
@@ -109,5 +108,5 @@ Enable CloudFront CDN for global content delivery
 
 Mula Govardhan Reddy (Giri)
 📍 DevOps & Cloud Enthusiast
-🔗 LinkedIn Profile
+🔗 LinkedIn Profile 
  | GitHub Profile
