@@ -7,7 +7,7 @@ The setup includes a 3-tier architecture with Auto Scaling, Load Balancing, Secu
 🧩 Architecture Diagram
 
 (Add your architecture image here after uploading, for example:)
-![AWS Lift and Shift Architecture](![AWS Architecture](images/architecture.png))
+![AWS Lift and Shift Architecture](![AWS Architecture](diagram-export-10-7-2025-3_12_19-PM.png))
 
 🏗️ Project Components
 1️⃣ Frontend Access (DNS & Routing)
