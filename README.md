@@ -1,4 +1,4 @@
-🚀 AWS Lift-and-Shift Project – Cloud Migration Architecture
+# 🚀 AWS Lift-and-Shift Project – Cloud Migration Architecture
 📘 Overview
 
 This project demonstrates the Lift-and-Shift migration strategy, where a traditional on-premise web application is migrated into the AWS Cloud without redesigning the core architecture.
